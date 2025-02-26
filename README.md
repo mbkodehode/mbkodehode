@@ -3,11 +3,11 @@ Fullstack utvikler og driftsutvikler
 I'm passionate about building robust applications and exploring cutting-edge technologies. With expertise in full-stack development, I create scalable solutions that solve real-world problems.
 🛠️ Skills
 
-Frontend: React, Html, Css
-Backend: Node.js, C# asp.net 
-Mobile: React Native, 
-Database: MsSQL, , 
-DevOps: Docker, Azure
+Frontend: React, Html, Css <br>
+Backend: Node.js, C# asp.net <br>
+Mobile: React Native <br>
+Database: MsSQL,  <br>
+DevOps: Docker, Azure <br>
 
 📊 GitHub Stats <br>
 [![Martin M Bjørklund's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbkodehode&theme=algolia&show_icons=true)](https://github.com/mbkodehode)
