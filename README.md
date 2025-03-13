@@ -16,7 +16,7 @@ DevOps: Docker, Azure <br>
 <br>
 🔍 Currently working on
 
-[Rimworld's Big Shota ] - en rimworld mod for Warhammer 40k Orks guns. integration with Combat Extended inn the works
+[Retail Store Manager ] - A fully functioning system for handeling most needs of a retail or grocery store
  
 
 📫 Connect with me
