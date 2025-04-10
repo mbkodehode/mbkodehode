@@ -1,7 +1,5 @@
 👋 hei, Jeg heter Martin Myhre Bjørklund
 Fullstack utvikler og driftsutvikler
-I'm passionate about building robust applications and exploring cutting-edge technologies. With expertise in full-stack development, I create scalable solutions that solve real-world problems.
-🛠️ Skills
 
 Frontend: React, Html, Css <br>
 Backend: Node.js, C# asp.net <br>
