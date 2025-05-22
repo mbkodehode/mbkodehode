@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<mbkodehode
->&layout=compact)
 👋 hei, Jeg heter Martin Myhre Bjørklund
 Fullstack utvikler og driftsutvikler
 
